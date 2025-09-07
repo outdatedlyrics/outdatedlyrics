@@ -1,4 +1,5 @@
-. 
+<img width="1280" height="170" alt="image-21ad-gradientmap pro" src="https://github.com/user-attachments/assets/859e10a3-c6fd-43af-9486-a0e0c52e2820" />
+
 
 <!--
 **outdatedlyrics/outdatedlyrics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
