@@ -1,4 +1,8 @@
-<img width="1280" height="300" alt="image-bbc0-gradientmap pro" src="https://github.com/user-attachments/assets/b95d1b9e-7cbd-4bb3-a3dd-e073f5aa7c37" />
+<img width="1280" height="300" alt="13609" src="https://github.com/user-attachments/assets/fea679da-f001-4edc-a305-9f5940f44ffb" />
+<img width="1000" height="1000" alt="14780" src="https://github.com/user-attachments/assets/08312f6f-7522-480e-a4a9-a5422bc5da73" />
+<img width="1280" height="300" alt="13611" src="https://github.com/user-attachments/assets/f135cbc9-0bba-4a00-b021-9e80611d2a81" />
+
+
 
 
 
